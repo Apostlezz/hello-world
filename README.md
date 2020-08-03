@@ -1,4 +1,4 @@
 # hello-world
 This is my first repo on Github.
 
-Hello, I am a high school senior. I am currently looking forward to majoring in Computer Science in highschool. I am currently learning how to use github, as it is a great platform for many people who code.
+I am a high school senior, who is currently interested in Computer Science. I am learning how to use and navigate Github, as a means to review/publish code online.
